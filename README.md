@@ -1,2 +1,1 @@
 # admin
-echo "# admin"
